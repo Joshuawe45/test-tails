@@ -4,4 +4,4 @@ metadata:
   name: example-configmap 
 data:
   username: admin
-  password: admin 
+  password: password
